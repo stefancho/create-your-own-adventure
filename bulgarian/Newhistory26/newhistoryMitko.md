@@ -1,1 +1,1 @@
-Mitko e se plqska pod dusha
+Mitko  se plqska pod dusha
