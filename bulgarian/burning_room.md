@@ -31,6 +31,11 @@
 
 14. [Нова история](./stefan/stef.md)
 
+<<<<<<< HEAD
+15. [решавам да си погледна телефона](./Newhistory26/newhistoryMitko.md)
+
+16. [просто пиша нещо](./Newdirectory/my_history.md)
+=======
 15. [Решаваш, че искаш да се биеш срещу мафията вместо да бягаш](./kill_them/kill_them.md)
 
 16. [решавам да си погледна телефона](./Newhistory26/newhistoryMitko.md)
@@ -44,3 +49,4 @@
 
 16. [решавам да си погледна телефона](./Newhistory26/newhistoryMitko.md)
 >>>>>>> 8a9e1ec2f246b1e70fcfb8487a562dc1e1e490b5
+>>>>>>> b9591e5e7c2ace1baa5d69ea5595b8877f34c068
