@@ -31,4 +31,9 @@
 
 14. [Решаваш, че искаш да се биеш срещу мафията вместо да бягаш](./kill_them/kill_them.md)
 
-15. [решавам да си погледна телефона](./Newhistory26/newhistoryMitko.md)
+<<<<<<< HEAD
+
+15. [Някой ден!!!](./valio/ddz.md)
+
+
+16. [решавам да си погледна телефона](./Newhistory26/newhistoryMitko.md)
