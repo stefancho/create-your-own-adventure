@@ -32,3 +32,5 @@
 14. [Решаваш, че искаш да се биеш срещу мафията вместо да бягаш](./kill_them/kill_them.md)
 
 15. [решавам да си погледна телефона](./Newhistory26/newhistoryMitko.md)
+
+16. [просто пиша нещо](./Newdirectory/my_history.md)
