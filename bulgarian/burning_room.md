@@ -35,12 +35,4 @@
 
 16. [решавам да си погледна телефона](./Newhistory26/newhistoryMitko.md)
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-
-15. [Някой ден!!!](./valio/ddz.md)
-
-
-16. [решавам да си погледна телефона](./Newhistory26/newhistoryMitko.md)
->>>>>>> 8a9e1ec2f246b1e70fcfb8487a562dc1e1e490b5
+17.[обирджии](./Balush/bratmee.md) 
