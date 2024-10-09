@@ -44,3 +44,5 @@
 
 16. [решавам да си погледна телефона](./Newhistory26/newhistoryMitko.md)
 >>>>>>> 8a9e1ec2f246b1e70fcfb8487a562dc1e1e490b5
+
+17. [sidji](./Nova_direktoriq/Vashata_istoriq.md)
