@@ -50,3 +50,4 @@
 =======
 17.[обирджии](./Balush/bratmee.md) 
 >>>>>>> 27df4d08821ce9f7e8626d493ded37580bbb44dc
+18. [Jivot bez bira](./Novata_direktoriq/Vashite_istorii.md)
